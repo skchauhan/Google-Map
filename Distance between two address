@@ -1,0 +1,5 @@
+Get Two address distance by google map api
+
+http://maps.googleapis.com/maps/api/distancematrix/json?origins=28.6466758, 76.81238&destinations=28.4228855, 76.8493514&mode=driving&sensor=false
+
+http://maps.googleapis.com/maps/api/distancematrix/json?origins=delhi&destinations=gurgaon&sensor=false&mode=driving
